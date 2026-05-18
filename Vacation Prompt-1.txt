@@ -1,0 +1,3 @@
+Create a table with Email Subject, Date Received, Replied (Yes/No), Read (Yes/No) fort last 48 hours and sort by Date Received in descending order. Also apply green color for read emails and red color for unread emails.
+
+## Use this prompt after vacation in M365 Copilot
